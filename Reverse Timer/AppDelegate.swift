@@ -3,7 +3,7 @@
 //  Reverse Timer
 //
 //  Created by Matthew Menefee on 7/27/16.
-//  Copyright © 2016 SmartLogic. All rights reserved.
+//  Copyright © 2017 Extractable Media. All rights reserved.
 //
 
 import UIKit
